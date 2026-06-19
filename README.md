@@ -1,4 +1,7 @@
-To run the game you will need to download and install Java JDK version 11 or higher and install Apache Maven. 
+This is a text-based adventure game written in Java. The goal of the game is to navigate the map and pick up all items before reaching the room with the boss. At the start of the game you can pick your game theme which alters the game's story, map items, and boss. This application features a scoring system based on the time it takes to reach the boss and total moves. This application also features a secure account creation and login system where you can save your end-game score, view your top ten playsthroughs, and view the leaderboard.
+
+To run the game you will need to download and install Java JDK version 11 or higher and install Apache Maven. At this time, the game does not connect to the internet and can only be ran locally on your machine.
+
 This application connects to a local database made with MySql so you will also need to download and install MySql and create a database with the following schema:
 
 <img width="638" height="759" alt="image" src="https://github.com/user-attachments/assets/1c943f51-e6e4-45c1-afa8-473511d2f7e1" />
@@ -6,6 +9,8 @@ This application connects to a local database made with MySql so you will also n
 The application connects to the database by reading the credentials from a db.properites file. To get yours to connect you will need to create a "db.properties" file and place it in the src/main/resources folder. The db.properties file should look like the following but with the values replaced with your own:
 
 <img width="240" height="76" alt="image" src="https://github.com/user-attachments/assets/6d897ca5-8346-4eb3-8ee5-ef56e62e9cc1" />
+
+If you get stuck i your playthrough, here are the maps for the different themes:
 
 Map of the Space theme: 
 
