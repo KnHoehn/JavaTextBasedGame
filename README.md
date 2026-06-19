@@ -10,7 +10,7 @@ The application connects to the database by reading the credentials from a db.pr
 
 <img width="240" height="76" alt="image" src="https://github.com/user-attachments/assets/6d897ca5-8346-4eb3-8ee5-ef56e62e9cc1" />
 
-If you get stuck i your playthrough, here are the maps for the different themes:
+If you get stuck during your playthrough, here are the maps for the different themes:
 
 Map of the Space theme: 
 
