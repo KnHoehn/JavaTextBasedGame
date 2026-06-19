@@ -1,7 +1,5 @@
 This is a text-based adventure game written in Java. The goal of the game is to navigate the map and pick up all items before reaching the room where the boss resides. This is an enhanced version of the Python text-based game that is also featured on my Github. This enhanced version was created as my capstone project for Southern New Hampshire University. 
 
-[Link to the original Python version](https://github.com/KnHoehn/Python-Text-Based-Game)
-
 Structural enhancements include:
 
 1. Porting the game from Python to Java.
@@ -41,3 +39,5 @@ Map of the Medieval theme:
 Map of the Cyberpunk theme:
 
 <img width="317" height="317" alt="CyberpunkGameMap" src="https://github.com/user-attachments/assets/f49af801-42ce-49cf-bd61-c326c452f55a" />
+
+If you are interested in viewing the original Python version, you can [click here](https://github.com/KnHoehn/Python-Text-Based-Game)
