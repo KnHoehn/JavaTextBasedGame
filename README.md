@@ -1,4 +1,20 @@
-This is a text-based adventure game written in Java. The goal of the game is to navigate the map and pick up all items before reaching the room where the boss resides. At the start of the game you can pick your game theme which alters the game's story, map items, and boss. This application features a scoring system based on the time it takes to reach the boss and total moves taken. This application also features a secure account creation and login system where you can save your end-game score, view your top ten playthroughs, and view the leaderboard.
+This is a text-based adventure game written in Java. The goal of the game is to navigate the map and pick up all items before reaching the room where the boss resides. This is an enhanced version of the Python text-based game that is also featured on my Github. This enhanced version was created as my capstone project for Southern New Hampshire University. 
+
+Structural enhancements include:
+
+1. Porting the game from Python to Java.
+2. Implemnting Object Oriented Programming.
+3. Unit testing.
+4. Connecting to a database.
+5. Modularizing.
+6. Fixing bugs.
+
+New features include:
+
+1. The ability to pick the theme of your game which alters the game's story, map, items, and boss.
+2. A scoring system based on the time it takes to reach the boss and total moves taken.
+3. A secure account creation and login system.
+4. The ability to view your top ten personal best scores and a leaderboard of the top ten scores of all time.
 
 To run the game you will need to download and install Java JDK version 11 or higher and install Apache Maven. 
 
