@@ -3,7 +3,7 @@ This is a text-based adventure game written in Java. The goal of the game is to 
 Structural enhancements include:
 
 1. Porting the game from Python to Java.
-2. Implemnting Object Oriented Programming.
+2. Implementing Object Oriented Programming.
 3. Unit testing.
 4. Connecting to a database.
 5. Modularizing.
