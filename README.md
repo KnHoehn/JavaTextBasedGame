@@ -1,6 +1,6 @@
 This is a text-based adventure game written in Java. The goal of the game is to navigate the map and pick up all items before reaching the room where the boss resides. At the start of the game you can pick your game theme which alters the game's story, map items, and boss. This application features a scoring system based on the time it takes to reach the boss and total moves taken. This application also features a secure account creation and login system where you can save your end-game score, view your top ten playthroughs, and view the leaderboard.
 
-To run the game you will need to download and install Java JDK version 11 or higher and install Apache Maven. At this time, the game does not connect to the internet and can only be ran locally on your machine.
+To run the game you will need to download and install Java JDK version 11 or higher and install Apache Maven. At this time, the game does not connect to the internet so a database needs to be created locally on your machine.
 
 This application connects to a local database made with MySql so you will also need to download and install MySql and create a database with the following schema:
 
