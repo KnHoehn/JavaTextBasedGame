@@ -3,6 +3,7 @@
 This project is a Java-based text adventure game developed as a capstone project, enhanced from my [original Python version](https://github.com/KnHoehn/Python-Text-Based-Game), with database integration, user authentication, and a dynamic scoring system. The application allows users to create accounts, play through different themed environments, and track their performance through a leaderboard.
 
 **Overview**
+
 The goal of the game is to navigate through a map, collect all required items, and reach the boss location. If the player reaches the boss without collecting all items, the game is lost. The application supports multiple themes and tracks player performance based on time and moves.
 
 This project demonstrates object-oriented programming, database integration, and full application development from initial design through implementation.
@@ -44,6 +45,7 @@ Tables include:
 - Scoreboard (stores player performance metrics such as score, moves, time, and selected theme)
  
 **How to Run the Project**
+
 1. Install Java JDK 11 or higher
 2. Install and configure MySQL
 3. Create the required database and tables (see schema below)
@@ -55,6 +57,7 @@ Example database setup:
 - Ensure your local MySQL instance is running before launching the application
 
 **Database Schema:**
+
 <img width="240" height="76" alt="image" src="https://github.com/user-attachments/assets/6d897ca5-8346-4eb3-8ee5-ef56e62e9cc1" />
 
 **Challenges and Learning Outcomes**
