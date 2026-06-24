@@ -51,7 +51,7 @@ Tables include:
 3. Create the required database and tables (see schema below)
 4. Update database connection credentials in the .properties file
 5. Compile and run the application
-6. 
+   
 Example database setup:
 
 - Create a database named game_db
