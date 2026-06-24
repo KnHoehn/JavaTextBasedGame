@@ -3,6 +3,7 @@
 This project is a Java-based text adventure game developed as a capstone project, enhanced from my [original Python version](https://github.com/KnHoehn/Python-Text-Based-Game), with database integration, user authentication, and a dynamic scoring system. The application allows users to create accounts, play through different themed environments, and track their performance through a leaderboard.
 
 **Overview**
+
 The goal of the game is to navigate through a map, collect all required items, and reach the boss location. If the player reaches the boss without collecting all items, the game is lost. The application supports multiple themes and tracks player performance based on time and moves.
 
 This project demonstrates object-oriented programming, database integration, and full application development from initial design through implementation.
@@ -14,6 +15,7 @@ This project demonstrates object-oriented programming, database integration, and
 - Apache Maven
  
 **Key Features**
+
 - User account creation and login system
 - Secure password storage using hashing and salting
 - Multiple game themes (e.g., medieval, cyberpunk, space)
@@ -23,6 +25,7 @@ This project demonstrates object-oriented programming, database integration, and
 - Game stats tracking including score, moves, and completion time
  
 **My Contributions**
+
 - Designed and implemented the full game logic using object-oriented programming principles, including encapsulation and polymorphism
 - Built and structured the application from scratch as a single-developer project
 - Created and connected a MySQL database to store user accounts, scores, and gameplay data
@@ -35,6 +38,7 @@ This project demonstrates object-oriented programming, database integration, and
 - Debugged and refined application behavior to ensure consistent functionality across game scenarios
  
 **Database Design**
+
 The application uses a relational database to store user and gameplay data.
 Tables include:
 - Users (stores usernames and secure password credentials)
