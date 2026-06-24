@@ -63,6 +63,7 @@ Example database setup:
 <img width="240" height="76" alt="image" src="https://github.com/user-attachments/assets/6d897ca5-8346-4eb3-8ee5-ef56e62e9cc1" />
 
 **Challenges and Learning Outcomes**
+
 One of the most significant challenges in this project was integrating the Java application with a MySQL database and managing data persistence. This required learning how to establish database connections, design schemas, and perform CRUD operations within the application.
 Additional challenges included:
 - Structuring the application using object-oriented principles
