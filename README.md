@@ -60,7 +60,7 @@ Example database setup:
 
 **Database Schema:**
 
-<img width="240" height="76" alt="image" src="https://github.com/user-attachments/assets/6d897ca5-8346-4eb3-8ee5-ef56e62e9cc1" />
+<img width="638" height="759" alt="image" src="https://github.com/user-attachments/assets/1c943f51-e6e4-45c1-afa8-473511d2f7e1" />
 
 **Challenges and Learning Outcomes**
 
