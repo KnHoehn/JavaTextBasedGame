@@ -9,11 +9,12 @@ The goal of the game is to navigate through a map, collect all required items, a
 This project demonstrates object-oriented programming, database integration, and full application development from initial design through implementation.
 
 **Technologies Used**
-- Java
-- MySQL
-- JDBC
-- Apache Maven
-- JUnit
+- Language: Java
+- Database: MySQL
+- Data Access: JDBC
+- Build Tool: Apache Maven
+- Testing: JUnit 5 (Jupiter)
+- Libraries: Gson, Apache Commons Text
  
 **Key Features**
 
