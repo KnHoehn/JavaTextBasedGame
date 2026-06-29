@@ -60,6 +60,27 @@ Example database setup:
 
 **Database Schema:**
 
+CREATE DATABASE game_db;
+
+USE game_db;
+
+CREATE TABLE users (
+    user_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    user_name VARCHAR(50) NOT NULL UNIQUE,
+    user_password VARCHAR(128) NOT NULL,
+    salt VARCHAR(128) NOT NULL
+);
+
+CREATE TABLE score_board (
+    score_id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
+    user_name VARCHAR(50) NOT NULL,
+    score BIGINT NOT NULL,
+    moves INT NOT NULL,
+    time BIGINT NOT NULL,
+    theme VARCHAR(50) NOT NULL,
+    FOREIGN KEY (user_name) REFERENCES users(user_name)
+);
+
 <img width="638" height="759" alt="image" src="https://github.com/user-attachments/assets/1c943f51-e6e4-45c1-afa8-473511d2f7e1" />
 
 **Challenges and Learning Outcomes**
