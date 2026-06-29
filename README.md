@@ -13,6 +13,7 @@ This project demonstrates object-oriented programming, database integration, and
 - MySQL
 - JDBC
 - Apache Maven
+- JUnit
  
 **Key Features**
 
