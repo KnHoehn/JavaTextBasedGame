@@ -1,6 +1,13 @@
 **Java Text-Based Game**
 
-This project is a Java-based text adventure game developed as a capstone project, enhanced from my [original Python version](https://github.com/KnHoehn/Python-Text-Based-Game), with database integration, user authentication, and a dynamic scoring system. The application allows users to create accounts, play through different themed environments, and track their performance through a leaderboard.
+This project began as a Python-based text adventure game and was enhanced into a Java-based application as a capstone project. The Java version added database integration, user authentication, and a dynamic scoring system, allowing users to create accounts, play through different themed environments, and track their performance through a leaderboard.
+
+The project was subsequently enhanced again into a **full-stack web application** using **Java, Spring Boot, React, and TypeScript**, adding a REST API, web-based interface, and additional functionality. Each version builds upon the previous version as the project evolved alongside my software development skills and experience.
+
+**Latest Full-Stack Version:** [View the full-stack web application](https://github.com/KnHoehn/full-stack-text-based-game)
+
+**Original Python Version:** [View the original Python project](https://github.com/KnHoehn/Python-Text-Based-Game)
+
 
 **Overview**
 
