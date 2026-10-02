@@ -4,9 +4,9 @@ This project began as a Python-based text adventure game and was enhanced into a
 
 The project was subsequently enhanced again into a **full-stack web application** using **Java, Spring Boot, React, and TypeScript**, adding a REST API, web-based interface, and additional functionality. Each version builds upon the previous version as the project evolved alongside my software development skills and experience.
 
-**Latest Full-Stack Version:** [View the full-stack web application](https://github.com/KnHoehn/full-stack-text-based-game)
+[Latest Full-Stack Version](https://github.com/KnHoehn/full-stack-text-based-game)
 
-**Original Python Version:** [View the original Python project](https://github.com/KnHoehn/Python-Text-Based-Game)
+[Original Python Version](https://github.com/KnHoehn/Python-Text-Based-Game)
 
 
 **Overview**
